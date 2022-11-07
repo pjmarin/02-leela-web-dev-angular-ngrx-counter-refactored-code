@@ -1,3 +1,5 @@
+SOURCE: https://www.youtube.com/watch?v=sfrLeTfa7fI&list=PL_euSNU_eLbdg0gKbR8zmVJb4xLgHR7BX&index=7
+
 # LeelaWebDevNgrx
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.8.
